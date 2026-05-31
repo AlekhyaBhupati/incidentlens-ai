@@ -31,3 +31,12 @@ pip install -r requirements.txt
 ```
 
 Create a `.env` file:
+ANTHROPIC_API_KEY=your-key-here
+
+Then run:
+```bash
+streamlit run app.py
+```
+## 👩‍💻 Author
+Alekhya Bhupati — [LinkedIn](https://linkedin.com/in/alekhyabhupati) | [GitHub](https://github.com/AlekhyaBhupati)
+
